@@ -2,7 +2,7 @@ def main():
     import tkinter as tk
     import styles
     from functions import calc_functions as funcs
-#    from functions import auxiliary_functions as aux
+#    from functions import auxiliary_functions as aux (temporarily deprecated)
 
     calc = tk.Tk()
     calc.title('Calc.py')
