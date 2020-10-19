@@ -10,3 +10,5 @@ button_func_bg = '#90caf9'
 button_ac_bg = '#424242'
 button_ac_fg = '#fdfdfd'
 button_text = ['CE', 'C', '+', '-', '*', '/', '**', '=', '(', '', ')']
+
+display_font = 'none 18 bold'
