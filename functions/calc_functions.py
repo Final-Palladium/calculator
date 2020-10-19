@@ -1,3 +1,4 @@
 def click(token):
-    print(token)
+    check = token.isnumeric()
+    print(check)
     
